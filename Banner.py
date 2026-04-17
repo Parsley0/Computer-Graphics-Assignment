@@ -1,3 +1,6 @@
+#Parsley Njoroge - Sct211-0007/2023
+#Patrick Leon - Sct211-0003/2023
+
 from PIL import Image, ImageDraw, ImageFont
 
 def create_centered_banner():
