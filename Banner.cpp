@@ -1,3 +1,6 @@
+//Parsley Njoroge - Sct211-0007/2023
+//Patrick Leon - Sct211-0003/2023
+
 #include <GL/glut.h>
 
 float scale = 0.002f;
