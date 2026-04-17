@@ -9,7 +9,7 @@ def create_centered_banner():
 
     #  Load the font
     try:
-        font = ImageFont.truetype("arial.ttf", 40)
+        font = ImageFont.truetype("arial.ttf", 80)
     except IOError:
         font = ImageFont.load_default()
 
