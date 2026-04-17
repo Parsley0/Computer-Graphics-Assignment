@@ -1,3 +1,9 @@
+// GROUP 6
+
+// Members
+// Parsley Njoroge - Sct211 - 0007 / 2023
+// Patrick Leon – Sct211 - 0003 / 2023
+
 #include <iostream>
 #include <vector>
 #include <glm/glm.hpp>
