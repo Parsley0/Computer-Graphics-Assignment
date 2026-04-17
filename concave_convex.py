@@ -1,3 +1,9 @@
+# GROUP 6
+
+# Members
+# Parsley Njoroge - Sct211 - 0007 / 2023
+# Patrick Leon – Sct211 - 0003 / 2023
+
 def cross_2d(a, b):
     return (a[0] * b[1]) - (a[1] * b[0])
 
