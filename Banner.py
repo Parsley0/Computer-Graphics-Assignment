@@ -29,7 +29,6 @@ def create_centered_banner():
     total_width = draw.textlength(full_text, font=font)
     
     # Get the bounding box to find the true height of the text
-    # textbbox returns (left, top, right, bottom)
     left, top, right, bottom = draw.textbbox((0, 0), full_text, font=font)
     total_height = bottom - top
 
